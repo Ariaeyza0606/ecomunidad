@@ -35,11 +35,21 @@ header{
   color: rgb(83, 88, 95);
 }
 /*SECTION3*/
-.tres{
-  background-image: url(./img/metodo.jpg);
+.bcgr1{
+  background: url(../img/metodo.jpg);
+  height: 380px;
+  position: relative;
   background-size: cover;
   background-repeat: no-repeat;
-  height: 666px
+  background-position: top left;
+}
+.bcgr2{
+  background: url(../img/fondo.jpg);
+  height: 380px;
+  position: relative;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top right
 }
 /*SECTION4*/
 .text4{
@@ -93,3 +103,9 @@ header{
   margin-bottom: 60px;
 }
 /*SECTION7*/
+.siete{
+  background-image: url(../img/fondo2.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 666px
+}
