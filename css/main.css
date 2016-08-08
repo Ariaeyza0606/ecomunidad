@@ -1,0 +1,95 @@
+/*HEADER*/
+header{
+  background-image: url(../img/semilla.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 666px
+}
+.fondo {
+    background: white;
+}
+.logo{
+  width: 146px;
+}
+.menu {
+    color:rgb(83, 88, 95);;
+    padding: 22px;
+    font-size: 22px;
+    text-align: center;
+}
+/*SECTION1*/
+.uno p{
+      color: rgb(83, 88, 95);
+}
+/*SECTION2*/
+.mision{
+  width: 180px;
+}
+.subtittle{
+  font-size: 24px;
+}
+.text, .text2{
+  font-size: 19px;
+}
+.text2{
+  color: rgb(83, 88, 95);
+}
+/*SECTION3*/
+.tres{
+  background-image: url(./img/metodo.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 666px
+}
+/*SECTION4*/
+.text4{
+  font-size: 18px;
+  margin-bottom: 45px;
+}
+.subtittle4 {
+  font-size: 27px;
+  margin-top: 63px;
+  margin-bottom:20px;
+}
+.servicios-icon{
+  width: 50%;
+  margin-bottom: 16px;
+}
+.subtittle4-2{
+  font-size: 20px;
+  padding-bottom: 18px;
+}
+/*SECTION5*/
+.com1, .com2{
+  padding-bottom:36px;
+}
+.parrafo,.subtittle5, .subtittle6 {
+  font-size: 27px;
+}
+.parrafo, .subtittle6{
+  margin: 27px 0px 27px 0px;
+}
+.comunidad {
+  margin: 0px 0px 0px -14px;
+}
+.subtittle5-2{
+  font-size: 20px;
+}
+.subtittle5, .subtittle5-2 {
+  padding-bottom: 13px;
+}
+/*SECTION6*/
+.equipo{
+  border-radius: 50%;
+  width: 280px;
+}
+.subtittle6{
+  font-weight: bold;
+}
+.icono-rs {
+  width: 39px;
+  margin-top: 12px;
+  padding-left: 14px;
+  margin-bottom: 60px;
+}
+/*SECTION7*/
